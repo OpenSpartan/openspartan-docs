@@ -1,0 +1,111 @@
+// Put your custom SCSS code here
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-ExtraLight.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-ExtraLight.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-ExtraLightItalic.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-ExtraLightItalic.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-Light.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-Light.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-LightItalic.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-LightItalic.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-Regular.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-Regular.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-Italic.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-Italic.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-SemiBold.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-SemiBold.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-SemiBoldItalic.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-SemiBoldItalic.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-Bold.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-Bold.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-BoldItalic.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-BoldItalic.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/TitilliumWeb-Black.woff2") format("woff2"),
+    url("/fonts/TitilliumWeb-Black.woff") format("woff")
+}
