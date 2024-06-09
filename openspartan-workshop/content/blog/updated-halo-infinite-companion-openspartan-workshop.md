@@ -1,5 +1,5 @@
 ---
-title: "OpenSpartan Workshop 1.0.7 (Crucible) Ready for Download"
+title: "OpenSpartan Workshop 1.0.6 (Crucible) Ready for Download"
 slug: updated-halo-infinite-companion-openspartan-workshop
 description: "A new version of OpenSpartan Workshop is released, adding support for The Exchange, ranked tier counterfactuals, comprehensive event tracking, a faster match search, and more."
 summary: "A new version of OpenSpartan Workshop is released, adding support for The Exchange, ranked tier counterfactuals, comprehensive event tracking, a faster match search, and more."
@@ -19,9 +19,11 @@ seo:
   noindex: false # false (default) or true
 ---
 
+You can catch up with the [latest release notes on GitHub](https://github.com/OpenSpartan/openspartan-workshop/releases/tag/1.0.6). You can also [download the latest release right away](https://github.com/OpenSpartan/openspartan-workshop/releases/download/1.0.6/OpenSpartan.Workshop.Installer.Bundle.exe).
+
 If you thought that OpenSpartan Workshop hasn't had updates in a few months, you thought wrong! This one is _packed_ with a few new features that I am really excited about. As with all other releases, this software is, in my eyes, always somewhat experimental - things _might_ be a bit wonky as I stabilize the application (a bit on that later), but it's already working pretty well for some core scenarios.
 
-But, first things first - why the jump from `1.0.3` to `1.0.7`? Thanks to some post-release testing, there were a few problems that bubbled up in `1.0.4` that had to be hotfixed over several releases. This also helped me fine-tune the release pipeline to catch some of the regressions early. Hence, the currently supported release is `1.0.7`.
+But, first things first - why the jump from `1.0.3` to `1.0.6`? Thanks to some post-release testing, there were a few problems that bubbled up in `1.0.4` that had to be hotfixed over several releases. This also helped me fine-tune the release pipeline to catch some of the regressions early. Hence, the currently supported release is `1.0.6`.
 
 So, long story longer - what's new?
 
