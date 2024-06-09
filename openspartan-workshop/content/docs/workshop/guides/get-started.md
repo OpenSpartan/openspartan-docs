@@ -21,7 +21,7 @@ seo:
 
 To get started with OpenSpartan Workshop, you will first need to make sure that you install the latest version of the application. You can get it [from GitHub](https://github.com/OpenSpartan/openspartan-workshop/releases). Look for `OpenSpartan.Workshop.Installer.Bundle.exe`.
 
-[**🚀 Download latest version**](https://github.com/OpenSpartan/openspartan-workshop/releases/download/1.0.3/OpenSpartan.Workshop.Installer.Bundle.exe)
+[**🚀 Download latest version**](https://github.com/OpenSpartan/openspartan-workshop/releases/download/1.0.7/OpenSpartan.Workshop.Installer.Bundle.exe)
 
 {{< callout context="note" title="Note" icon="info-circle" >}}
 The installer will also attempt to install [.NET Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0), and the latest [Windows App SDK](https://learn.microsoft.com/windows/apps/windows-app-sdk/downloads).
