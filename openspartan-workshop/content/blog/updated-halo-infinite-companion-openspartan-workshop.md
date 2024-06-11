@@ -93,7 +93,7 @@ You now can:
 
 Last, but most definitely not least, another experimental feature that I added (and will continue working on) is the season calendar.
 
-![Season calendar shown in OpenSpartan Workshop](images/blog/updated-halo-infinite-companion-openspartan-workshop/events.gif)
+![Season calendar shown in OpenSpartan Workshop](images/blog/updated-halo-infinite-companion-openspartan-workshop/calendar.gif)
 
 It allows you to conveniently track operations, events, and most importantly - _ranked seasons_ (also known as CSR seasons). The latter can help you understand when the next rank reset will happen (and when previous ones happened, too). The UI is _a bit_ rough, but I am working on [cleaning it up more in future releases](https://github.com/OpenSpartan/openspartan-workshop/issues/39).
 
