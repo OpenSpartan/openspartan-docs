@@ -7,9 +7,9 @@ date: 2024-03-01
 lastmod: 2024-03-01
 draft: false
 weight: 50
-categories: []
-tags: []
-contributors: []
+categories: [OpenSpartan Workshop]
+tags: [halo-infinite,openspartan-workshop,open-source]
+contributors: [Den Delimarsky]
 pinned: false
 homepage: false
 seo:

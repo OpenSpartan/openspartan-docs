@@ -109,3 +109,15 @@
     url("/fonts/TitilliumWeb-Black.woff2") format("woff2"),
     url("/fonts/TitilliumWeb-Black.woff") format("woff")
 }
+
+.card:hover{
+  transform: none !important;
+}
+
+div.d-flex.flex-column.me-auto {
+  margin-top: 1rem;
+}
+
+div.d-flex.flex-column.justify-content-center {
+  margin-top: 1rem;
+}
