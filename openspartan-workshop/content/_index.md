@@ -1,5 +1,5 @@
 ---
-title : "OpenSpartan - Custom Halo companion apps"
+title : "OpenSpartan"
 description: "Tools to analyze and track Halo game data."
 lead: "Tools to analyze and track Halo game data."
 date: 2024-07-11
