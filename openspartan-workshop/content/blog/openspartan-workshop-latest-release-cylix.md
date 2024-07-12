@@ -49,4 +49,4 @@ Refer to [getting started guide](https://www.openspartan.com/docs/workshop/guide
 
 ## Feedback and improvements
 
-That's about it for this release! [**Go to the docs**](/docs/workshop/guides/get-started/) to get started and download the latest version. If you have any feedback, such as bug reports or feature requests, [**open an issue**](https://github.com/OpenSpartan/openspartan-workshop/issues)!
+That's about it for this release! [Go to the docs](/docs/workshop/guides/get-started/) to get started and download the latest version. If you have any feedback, such as bug reports or feature requests, [open an issue](https://github.com/OpenSpartan/openspartan-workshop/issues)!
