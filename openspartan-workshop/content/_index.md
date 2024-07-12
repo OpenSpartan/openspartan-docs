@@ -1,13 +1,13 @@
 ---
-title : "OpenSpartan"
-description: "Your unofficial companions to analyze and track Halo stats locally."
-lead: "Your unofficial companions to analyze and track Halo stats locally."
-date: 2024-02-21
-lastmod: 2024-02-21
+title : "OpenSpartan - Custom Halo companion apps"
+description: "Tools to analyze and track Halo game data."
+lead: "Tools to analyze and track Halo game data."
+date: 2024-07-11
+lastmod: 2024-07-11
 draft: false
 seo:
- title: "OpenSpartan - Unofficial Halo companion apps" # custom title (optional)
- description: "Your unofficial companions to analyze and track Halo stats locally." # custom description (recommended)
+ title: "OpenSpartan - Custom Halo companion apps"
+ description: "Tools to analyze and track Halo game data."
  canonical: "" # custom canonical URL (optional)
  noindex: false # false (default) or true
 ---
