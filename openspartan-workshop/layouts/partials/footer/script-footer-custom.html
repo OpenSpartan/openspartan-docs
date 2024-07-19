@@ -6,13 +6,8 @@
 {{ end -}}
 */}}
 
-{{ if eq .Type "blog" -}}
-  <script src="https://utteranc.es/client.js"
-        repo="OpenSpartan/openspartan-comments"
-        issue-term="url"
-        label="comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-  </script>
+{{/* EXAMPLE - only load script for a page type e.g. contact or gallery
+{{ if eq .Type "gallery" -}}
+  {{ partial "footer/esbuild" (dict "src" "js/gallery.js" "load" "async" "transpile" false) -}}
 {{ end -}}
+*/}}
