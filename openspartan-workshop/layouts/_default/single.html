@@ -56,18 +56,19 @@
 				<div class="my-n3"></div>
 			{{ end -}}
 			-->
+
+			<script src="https://utteranc.es/client.js"
+		        repo="OpenSpartan/openspartan-comments"
+		        issue-term="url"
+		        label="comment"
+		        theme="github-dark"
+		        crossorigin="anonymous"
+		        async>
+			</script>
+
 		</main>
 		{{ if and (eq site.Params.doks.containerBreakpoint "fluid") (in .Site.Params.mainSections .Type) }}
 			</div>
 		{{ end }}
 	</div>
-
-	<script src="https://utteranc.es/client.js"
-        repo="OpenSpartan/openspartan-comments"
-        issue-term="url"
-        label="comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-	</script>
 {{ end }}
