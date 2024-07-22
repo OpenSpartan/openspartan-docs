@@ -14,6 +14,8 @@ seo:
 
 OpenSpartan is a project that [I](https://den.dev) started as a labor of love and appreciation for the Halo universe. I've played [every single Halo ever released](https://den.dev/blog/halo-legendary/) since 2012 and one curious aspect was something that was always front and center for me - **data around the gameplay**. Since the release of Halo Infinite, I've been diving into the [depths of the public, yet undocumented Halo Infinite APIs](https://den.dev/tags/halo-api/) which allowed me to spin up quite a few projects in my quest to analyze my own match performance.
 
+{{< img class="rounded-3 h-auto" src="images/about/lego-arbiter-chief.jpeg" alt="An Elite Ultra with Master Chief as LEGO minifigures." >}}
+
 These projects include:
 
 - A companion app for Halo Infinite that runs on Windows [OpenSpartan Workshop](https://www.openspartan.com/docs/workshop/guides/get-started).
@@ -22,3 +24,5 @@ These projects include:
 - [A CLI tool](https://github.com/OpenSpartan/xuid-resolver) to get Xbox User IDs (XUIDs) from Xbox Gamertags.
 - [Bond Reader](https://github.com/dend/bond-reader), an open-source tool that allows unpacking the contents of [Bond-encoded API responses](https://den.dev/blog/parsing-halo-api-bond/).
 - Orion (formerly known as Grunt API), a full .NET implementation of the Halo Infinite API surface, that has since become closed-source, but still powers experiences such as [OpenSpartan Workshop](https://www.openspartan.com/docs/workshop/guides/get-started) and [GruntAPI](https://gruntapi.com).
+
+The more I built those out, the more I discovered that I really enjoy building developer tools for Halo in my free time and documenting the end-to-end experience.
