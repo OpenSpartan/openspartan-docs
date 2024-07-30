@@ -21,7 +21,7 @@ seo:
 
 To get started with OpenSpartan Workshop, you will first need to make sure that you install the latest version of the application. You can get it [from GitHub](https://github.com/OpenSpartan/openspartan-workshop/releases). Look for `OpenSpartan.Workshop.Installer.Bundle.exe`.
 
-[**🚀 Download latest version**](https://github.com/OpenSpartan/openspartan-workshop/releases/download/1.0.6/OpenSpartan.Workshop.Installer.Bundle.exe)
+[**🚀 Download latest version**](https://github.com/OpenSpartan/openspartan-workshop/releases/download/1.0.8/OpenSpartan.Workshop.Installer.Bundle.exe)
 
 You can watch the overview video about OpenSpartan Workshop here:
 
