@@ -1,7 +1,7 @@
 ---
 title: "OpenSpartan Workshop 1.0.7 (Cylix) Is Now Available"
 slug: openspartan-workshop-latest-release-cylix
-description: ""
+description: "I've spent some time optimizing OpenSpartan Workshop (the latest release is definitely mostly a performance improvement), and so you can now enjoy the fruits of my labor."
 summary: "The latest release of OpenSpartan Workshop is here!"
 date: 2024-07-11
 lastmod: 2024-07-11
