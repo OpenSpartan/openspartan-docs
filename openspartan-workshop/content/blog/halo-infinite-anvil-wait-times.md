@@ -80,7 +80,7 @@ ORDER BY
     Hour;
 ```
 
-If we plug the output of this query into Excel, we can get this nice little visualization:
+If we plug the output of this query into Excel, we can get this nice little visualization (times in UTC):
 
 {{< figure class="rounded-3 h-auto" src="images/blog/halo-infinite-anvil-wait-times/btb-sentry-defense-wait-times.png" alt="Median wait times for BTB Sentry Defense in an Excel chart." caption="Median wait times for BTB Sentry Defense in an Excel chart." >}}
 
@@ -143,7 +143,7 @@ Plugging this into an Excel PivotTable (with a bit of conditional formatting mag
 
 {{< figure class="rounded-3 h-auto" src="images/blog/halo-infinite-anvil-wait-times/heatmap-btb-sentry.png" alt="Heatmap for daily and hourly wait times for BTB Sentry Defense during Anvil." caption="Heatmap for daily and hourly wait times for BTB Sentry Defense during Anvil." >}}
 
-Looks like if you are on the US West Coast, playing mid-day is the worst - everyone is at work, and you might be waiting for more than two minutes to find a match.
+Looks like if you are on the US West Coast, playing from 10AM UTC (3AM PT) is the worst - everyone is sleeping, and you might be waiting for more than two minutes to find a match.
 
 {{< callout context="caution" title="What data is captured?" icon="info-circle" >}}
 There are many factors that determine the wait times. The values provided by Halo Infinite services are an approximation, and the actual wait times can be shorter or longer than the declared value.
