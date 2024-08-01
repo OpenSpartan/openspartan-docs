@@ -57,6 +57,11 @@
   url = "https://youtube.com/@OpenSpartan"
   weight = 10
 
+[[footer]]
+  name = "Reddit"
+  url = "https://reddit.com/u/openspartan"
+  weight = 10
+
 # [[footer]]
 #   name = "Terms of Service"
 #   url = "/terms/"
