@@ -153,7 +153,9 @@ But you know what, this was a featured playlist. Would the data be different for
 
 {{< figure class="rounded-3 h-auto" src="images/blog/halo-infinite-anvil-wait-times/ranked-arena-wait-times.png" alt="Heatmap for daily and hourly wait times for Ranked Arena during Anvil." caption="Heatmap for daily and hourly wait times for Ranked Arena during Anvil." >}}
 
-Looks like the best time to play **Ranked Arena** on the US West Coast is in the evening or late at night. _Or so it would appear_ - [a Reddit user observed](https://www.reddit.com/r/CompetitiveHalo/comments/1eh8yms/comment/lfyq7zw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) a slight issue with the query above. The conversion of timestamps using `strftime` will, by default, compute the data in UTC time. What that means is that the times rendered in the heatmap will be off by about 7 hours (offset for the PT timezone). To fix that, we need to use `localtime` to ensure that the timestamp is converted to the _local machine time_ where the query is executed:
+Looks like the best time to play **Ranked Arena** on the US West Coast is in the evening or late at night. _Or so it would appear_ - [a Reddit user observed](https://www.reddit.com/r/CompetitiveHalo/comments/1eh8yms/comment/lfyq7zw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) a slight issue with the query above if we want to draw raw conclusions.
+
+The conversion of timestamps using `strftime` will, by default, compute the data in UTC time. What that means is that the times rendered in the heatmap will be off by about 7 hours (offset for the PT timezone). To fix that, we need to use `localtime` to ensure that the timestamp is converted to the _local machine time_ where the query is executed:
 
 ```sql {title="Data for the wait time heatmap, accounting for timezone conversion"}
 WITH HourlyWaitTimes AS (
