@@ -122,6 +122,8 @@ https://economy.svc.halowaypoint.com
   /storetransactions
 ```
 
+If you look at the traffic between _the game itself_ and the Halo Infinite API, all of the data is [encoded in Bond](https://den.dev/blog/parsing-halo-api-bond/). However, we don't want to deal with Bond unless we absolutely have to, so JSON it is.
+
 The body of the request is as follows:
 
 ```json
